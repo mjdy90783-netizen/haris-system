@@ -1,2 +1,0 @@
-# haris-system
-haris sytstem
